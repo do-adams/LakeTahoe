@@ -25,8 +25,9 @@ h3 {
     text-align: center;
 }
 
-.secondary-content {
-    border-top: 2px solid lightgrey;
+
+.t-border {
+   border-top: 2px solid lightgrey; 
 }
 
 #main-footer {
