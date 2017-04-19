@@ -32,6 +32,11 @@ h3 {
   margin-bottom: 1.7em; /* 34px */
 }
 
+img {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
 /* Pseudo-classes ------------------ */
 
 a:link {
