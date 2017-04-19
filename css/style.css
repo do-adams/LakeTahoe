@@ -51,6 +51,7 @@ a:active {
 
 .main-header {
   background-color: #ffa949;
+  height: 850px;
 }
 
 .title {
@@ -101,4 +102,8 @@ a:active {
   padding: 18% 24%;
   border-top: 10px solid #ffa949;
   margin: 105px 0 60px;
+}
+
+.arrow {
+  width: 50px;
 }
