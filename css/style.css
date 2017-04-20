@@ -59,13 +59,10 @@ a:active {
 /* Main Styles --------------------- */
 
 .main-header {
-  background-color: #ffa949;
   padding-top: 170px;
   height: 850px;
-  background-image: url('../img/mountains.jpg');
+  background: #ffa949 url('../img/mountains.jpg') no-repeat center;
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .title {
