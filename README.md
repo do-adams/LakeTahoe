@@ -1,4 +1,4 @@
-# Lake Tahoe
+# Lake Tahoe, California
 
 ![Lake Tahoe, California](img/mountains.jpg)
 
